@@ -4,7 +4,7 @@ Given an integer, for each digit that makes up the integer determine whether it 
 
 <b>Note:</b> Each digit is considered to be unique, so each occurrence of the same digit should be counted (e.g. for n=111, 1 is a divisor of 111 each time it occurs so the answer is ).
 
-<h1>Function Description
+<h1>Function Description</h1>
 
 Complete the findDigits function in the editor below. It should return an integer representing the number of digits of d that are divisors of d.
 
