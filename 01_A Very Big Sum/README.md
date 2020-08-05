@@ -20,11 +20,15 @@ The next line contains  space-separated integers contained in the array.
 Return the integer sum of the elements in the array.
 
 <h1>Constraints</h1>
-
+<ul>
+  <li>1 <= n <= 10</li>  
+  <li>0 <= ar[i] <= 10^10 </li>
+</ul>
 
 <h1>Sample Input</h1>
 
 5
+
 1000000001 1000000002 1000000003 1000000004 1000000005
 <h1>Output</h1>
 
